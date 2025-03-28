@@ -9,6 +9,7 @@ def countTargetPairs(nums, target):
                 count += 1
             else:
                 count = count
+
     
     return count
 
